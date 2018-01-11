@@ -1,6 +1,6 @@
-name: Car Makes SuggestMode
+name: Car Makes Suggest Mode
 version: 1.0.0
-description: SuggestMode for list of auto manufacturers
+description: Suggest Mode for list of auto manufacturers
 url: https://github.com/notasausage/statamic-suggestmode-cars
 developer: Patrick Haney
 developer_url: http://patrickhaney.com
