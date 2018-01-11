@@ -27,5 +27,6 @@ fields:
 ```
 
 ## Things To Do...
-* Group manufacturers by country
-* Sort manufacturers alphabetically
+* ~~Group manufacturers by country~~
+* ~~Sort manufacturers alphabetically~~
+* Add all current and past manufacturers
